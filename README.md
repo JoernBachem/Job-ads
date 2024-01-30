@@ -1,3 +1,4 @@
+
 https://de.indeed.com/jobs?q=data+analyst&l=&vjk=6af9834fee59b979&advn=9848435252164000 Von Poll Poll Immobolien Skills: 1. Python/R 2. SQL/ data banks 3. tableau 4. data warehousing
 
 Comment:
@@ -18,3 +19,4 @@ https://de.indeed.com/jobs?q=data+analyst&l=&vjk=e5a8d959f853aa44&advn=678799923
 Comment:
 
 I have not heard of the last three skills listed before. So I don't know what is needed for this job and what to expect of this     job's role. So overall this seems to touch on slightly different area than presented in the lecture.
+
