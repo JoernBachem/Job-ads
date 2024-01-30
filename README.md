@@ -1,3 +1,4 @@
+dont repat this misake
 
 https://de.indeed.com/jobs?q=data+analyst&l=&vjk=6af9834fee59b979&advn=9848435252164000 Von Poll Poll Immobolien Skills: 1. Python/R 2. SQL/ data banks 3. tableau 4. data warehousing
 
