@@ -1,4 +1,4 @@
-https://de.indeed.com/jobs?q=data+analyst&l=&vjk=6af9834fee59b979&advn=9848435252164000 Von Poll Immobolien Skills: 1. Python/R 2. SQL/ data banks 3. tableau 4. data warehousing
+https://de.indeed.com/jobs?q=data+analyst&l=&vjk=6af9834fee59b979&advn=9848435252164000 Von Poll Poll Immobolien Skills: 1. Python/R 2. SQL/ data banks 3. tableau 4. data warehousing
 
 Comment:
 
@@ -12,8 +12,10 @@ https://de.indeed.com/jobs?q=data+analyst&l=&vjk=b68754b271405318 Post:Data anly
 
 Comment:
 
-The skills required in this job seem to aimed at data visualisation and extraction. Based on the information given in the course     seems to be a little more advanced.
+The skills required in this job seem to aimed at visualisation and extraction. Based on the information given in the course     seems to be a little more advanced.
 https://de.indeed.com/jobs?q=data+analyst&l=&vjk=e5a8d959f853aa44&advn=6787999234930591 Schwarz: Business anlyst e commerce skills: 1. excel 2. sql 2. microstrategy 3. mendix 4. microsoft power automate
+
+Hallo
 
 Comment:
 
