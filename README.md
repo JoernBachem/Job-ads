@@ -17,4 +17,4 @@ https://de.indeed.com/jobs?q=data+analyst&l=&vjk=e5a8d959f853aa44&advn=678799923
 
 Comment:
 
-I have not heard of the last three skills listed before. So I don't know what is needed for this job and what to expect of this     job's role. So overall this seems to touch on slightly different area than presented in the lecture.
+I have not heard of the last three skills. So I don't know what is needed for this job and what to expect of this     job's role. So overall this seems to touch on slightly different area than presented in the lecture.
